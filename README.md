@@ -1,6 +1,6 @@
-# Enhance_GuessingGame
+# G-U-E-S-S -A- N-U-M-B-E-R G-A-M-E
 
-### Features What I Add to Enhanced this Game 
+### Features What I Add to Enhanced this Guessing Game 
 
  * To generate a Random Number I used a Random Class in java (java.util package)
  * Validating an integer value -> (if user enter other than int value return a function back)
