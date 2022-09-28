@@ -233,7 +233,7 @@ public class LaunchGame {
                            " -> After Each Round ScoreCard Will Be Generated \n" +
                            " -> After Quiting Game : Winner Will Be Declared \n" +
                            " -> To Quit A Game (typed --> false) \n");
-        System.out.println("-------------------------- Developed By SAHIL KUDTARKAR ---------------------------------");
+//         System.out.println("-------------------------------------------------------------------------------------------");
         System.out.println("\n=========================================================================================");
         Scanner in = new Scanner(System.in);
         Umpire umpire = new Umpire();
